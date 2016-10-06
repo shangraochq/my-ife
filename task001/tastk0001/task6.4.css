@@ -1,0 +1,22 @@
+body{
+	margin: 0px;
+	padding: 0px
+}
+.div1{
+	float: left;
+	width: 100px;
+	background-color: red;
+	
+
+
+}
+.div2{
+	float: right;
+	width: 100px;
+	background-color: blue;
+}
+.div3{
+	background-color: yellow;
+	margin-right: 100px;
+	margin-left: 100px;
+}

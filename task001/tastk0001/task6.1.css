@@ -1,0 +1,23 @@
+body{
+
+}
+div{
+	max-width: 960px;
+	background-color: red;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+	box-sizing: border-box;
+}
+p{
+	display: inline;
+}
+#b{
+	margin: 20px;
+	max-width: 960px;
+	background-color: red;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+	padding: 100px;
+}

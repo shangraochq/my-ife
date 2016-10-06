@@ -1,0 +1,24 @@
+body{
+	margin: 0px;
+	padding: 0px
+}
+.div1{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100px;
+	background-color: red;
+	
+}
+.div2{
+	position: absolute;
+	top: 0;
+	right: 0;
+	width: 100px;
+	background-color: blue;
+}
+.div3{
+	background-color: yellow;
+	margin-right: 100px;
+	margin-left: 100px;
+}

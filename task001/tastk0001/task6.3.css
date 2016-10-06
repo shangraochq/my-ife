@@ -1,0 +1,22 @@
+.cc{
+   height: 100px;
+   background-color: blue;
+   margin-top: 0px;
+
+}
+.aa{ 
+	
+	width: 200px;
+	float: left;
+	background-color: red;
+	height: 200px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	
+}
+.bb{
+	background-color: green;
+	height: 200px;
+	margin-left: 200px;
+	margin-bottom: 0px;
+	
