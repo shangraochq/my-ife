@@ -469,7 +469,7 @@ function ajax(url, options) {
        request.send(datas);
     }
     request.onreadystatechange = function(){
-       if (request.readyState= === 4) {
+       if (request.readyState === 4) {
         if (request.request.status == 200) {
           if (options.onsuccess) {
             options.onsuccess(request.responseText,request)

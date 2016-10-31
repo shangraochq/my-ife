@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>兴趣爱好</title>
+	<style type="text/css">
+		#hint10, #hint0{
+			display: none;
+		}
+		#showHobby{
+			display: block;
+		}
+		
+	</style>
+</head>
+<body>
+	<div>
+		<h2>请输入您的情趣爱好</h2>
+		
+	</div>
+	<div id="container">
+		<textarea rows='10' cols='48' id="hobby">足球，篮球,壁球 网球
+可乐
+雪碧;白开水、running；running，bike</textarea>
+        <p id="hint10">输入爱好不能超过10个</p>
+        <p id="hint0">请输入至少一个爱好</p>
+		<input type="button" name="button" value="点击显示爱好列表" id="showHobby">
+		<p id="show">您的兴趣爱好为：<br></p>
+	</div>
+	<script type="text/javascript" src= "js/util.js"></script>
+	<script type="text/javascript" src = "js/task002_1.js"></script>
+</body>
+</html>
