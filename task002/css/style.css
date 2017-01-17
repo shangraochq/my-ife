@@ -1,0 +1,26 @@
+.container{
+	width: 692px;
+	overflow: hidden;
+	height: 400px;
+	position: relative;
+	margin: 0 auto;
+}
+
+.img_list{
+	width: 5000px;
+	position: absolute;
+}
+
+a{
+	border: 1px solid black;
+	display: inline-block;
+	border-radius: 10px;
+	width: 10px;
+	height: 10px;
+
+}
+.circle_list{
+	margin: 0 auto;
+	width: 200px;
+	height: 200px;
+}
